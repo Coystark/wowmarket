@@ -1,3 +1,5 @@
+NOTE: I asked the client whether I could leave the repository open and he agreed.
+
 # WOW Market
 
 ## Project setup
